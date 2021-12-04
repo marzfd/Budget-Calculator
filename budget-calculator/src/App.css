@@ -39,7 +39,7 @@ main {
   margin: 5% auto;
   padding: 2%;
   background-color: #5bb6b6;
-  width: 80%;
+  width: 60%;
   border-end-start-radius: 50px;
   border-start-end-radius: 50px;
 }
@@ -230,7 +230,7 @@ footer span {
   }
 
   .form-group {
-    padding: 0.75rem 0;
+    padding: 0.5rem 0;
     flex: 0 0 100%;
   }
 
@@ -238,7 +238,6 @@ footer span {
     height: 1.5rem;
     width: 100%;
     font-size: 0.8rem;
-    margin: 0 0 8px 0;
     padding: 0;
   }
 
@@ -283,14 +282,17 @@ footer span {
 
 
   button {
-    font-size: 0.8rem;
+    font-size: 0.75rem;
     margin: 0.5rem;
+    padding: 0.2rem 0.4rem;
+    border-radius: 5px;
   }
 
   .btn-icon {
-    font-size: 1rem;
+    font-size: 0.9rem;
     margin: 0;
     padding: 0;
+    width: 1.5rem;
   }
 
   footer {
